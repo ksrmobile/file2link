@@ -179,22 +179,3 @@ PORT = 8080
 /status     : To Get Bot Status and Total Users. [ADMIN]
 /broadcast  : To Broadcast any message to all users of bot. [ADMIN]
 ```
-
-#### 🍟 Channel Support :
-
-*Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button.*
-
-</details>
-
-### ❤️ Thanks To :
-
-- [**Me**](https://github.com/AvishkarPatil) : Owner of This FileStreamBot
-- [**Deekshith SH**](https://github.com/DeekshithSH) : for some modules.
-- [**EverythingSuckz**](https://github.com/EverythingSuckz) : for his [FileStreamBot](https://github.com/EverythingSuckz/FileStreamBot)
-- [**Biisal**](https://github.com/biisal) : for Stream Page UI
-
----
-<h4 align='center'>© 2024 Aνιѕнкαя Pαтιℓ</h4>
-
-
-
